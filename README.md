@@ -55,5 +55,5 @@ Diese Datenschutzerklärung kann künftig angepasst werden.
 Bitte prüfe diese Seite regelmäßig, um über den aktuellen Stand informiert zu bleiben.
 
 **Änderungsprotokoll**
-- 21. Februar 2026: Datenschutzerklärung für Plidus neu strukturiert und inhaltlich aktualisiert.
-- 20. Februar 2026: Datenschutzerklärung erstellt
+21. Februar 2026: Datenschutzerklärung für Plidus neu strukturiert und inhaltlich aktualisiert.
+20. Februar 2026: Datenschutzerklärung erstellt
