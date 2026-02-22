@@ -23,7 +23,7 @@ Wenn du in deinen iOS-Einstellungen der Weitergabe von Diagnose- und Nutzungsdat
 Zusätzlich speichert Plidus lokal technische Nutzungswerte zur KI-Nutzung (z. B. Anzahl von Anfragen und geschätzter Token-Verbrauch), um Funktionsumfang und Kosten transparent zu machen.
 
 **Datenlöschung**
-Du kannst deine Daten jederzeit löschen:
+Du kannst die Daten, die wir auf deinem Gerät speichern jederzeit löschen (Die daten die einmalig für KI Anfragen an Antropic übermittelt wurden können wir nicht löschen -> Antropic Privacy Policy):
 - direkt in der App über **Einstellungen -> Alle Daten löschen**
 - oder durch Deinstallation der App von deinen Geräten
 
